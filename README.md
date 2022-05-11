@@ -10,7 +10,7 @@ Tested with: Visa, MasterCard, MIR (other cards should work too).
 # Installation
 
 ```bash
-git clone https://github.com/cuamckuu/nfc-frog.git
+git clone https://github.com/B4MNsec/Nfc-frog.git
 cd nfc-frog
 make
 sudo ./nfc-frog
